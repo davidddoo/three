@@ -1,0 +1,11 @@
+Model Information:
+* title:	IShowSpeed
+* source:	https://sketchfab.com/3d-models/ishowspeed-849f6f5a291f42ccba866a6ae1ca7ebb
+* author:	Bielg3GetsNintendo (https://sketchfab.com/Bielg3GetsNintendo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "IShowSpeed" (https://sketchfab.com/3d-models/ishowspeed-849f6f5a291f42ccba866a6ae1ca7ebb) by Bielg3GetsNintendo (https://sketchfab.com/Bielg3GetsNintendo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
